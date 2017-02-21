@@ -1,0 +1,25 @@
+html,body{
+	/*font-family: 'Montserrat', sans-serif;*/
+	background-color: #2c3e50;
+}
+h1{
+	font-family: 'Pacifico', cursive;
+	font-size: 56px;
+	color: #2C3E50;
+}
+form{
+	font-size: 16pt;
+}
+.content{
+	/*background-color: #F7F7F9;*/
+	background-image: url("http://saqif.com/3704/img/texture.png");
+	max-width: 1200px;
+	margin: 15px auto;
+	padding: 40px;
+	-webkit-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+}
+.description{
+	font-size: 20pt;
+}
